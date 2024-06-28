@@ -1,6 +1,8 @@
 # Projeto: CRIANDO UM PODCAST COM IAs GENERATIVAS
 
-## Podcast: EDUCAÇÃO 5.0 “Decodificando a Transformação”.
+## Podcast: 
+
+EDUCAÇÃO 5.0 “Decodificando a Transformação”.
 
 
 ### ÍNDICE
@@ -9,14 +11,20 @@
 * Duração do Áudio
 * Ferramentas de IA Utilizadas
 * Licença
+
   
 
 ### RESUMO
 
-Este podcast, "Educação 5.0: Decodificando a Transformação Digital", mergulha na era da educação inovadora e imersiva. Juntos, desvendaremos como a Educação 5.0 molda o cenário educacional, utilizando tecnologias e habilidades socioemocionais para preparar os alunos para um mundo digitalmente interconectado.
+
+Este podcast, "Educação 5.0: Decodificando a Transformação Digital", mergulha na era da educação inovadora e imersiva. Juntos, desvendaremos como a Educação 5.0 molda o cenário 
+
+educacional, utilizando tecnologias e habilidades socioemocionais para preparar os alunos para um mundo digitalmente interconectado.
+
 
 
 ### O QUE VOCÊ PODE ESPERAR
+
 
 Tendências Tecnológicas: Explore as ferramentas digitais que revolucionam a sala de aula, desde smartphones até realidade virtual e inteligência artificial.
 Aprendizagem Personalizada: Descubra como a tecnologia personaliza o aprendizado, atendendo às necessidades individuais e otimizando o processo.
@@ -25,21 +33,31 @@ Acesso Ampliado: Compreenda como a Educação 5.0 democratiza o acesso à educa�
 Neste episódio inaugural, viajamos no tempo para entender a evolução da educação, desde a Educação 1.0 até a 5.0. Descubra como cada era moldou o aprendizado e as habilidades necessárias para o sucesso.
 
 
+
 ### DURAÇÃO DO PODCAST: 04min50s
+
 
 
 ### FERRAMENTAS UTILIZADAS: 
 
 Midjourney
+
 Dall-E 2
+
 ChatGPT
+
 ElevenLabs
+
 Clipchamp
+
 CapCut
+
 Notion.
 
 
+
 ### ÁUDIO DO EPISÓDIO
+
 
 Ouça o episódio aqui no Notion.
 
