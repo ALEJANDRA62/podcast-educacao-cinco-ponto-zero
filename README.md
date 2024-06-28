@@ -2,7 +2,7 @@
 
 ## Podcast: 
 
-EDUCAÇÃO 5.0 “Decodificando a Transformação”.
+EDUCAÇÃO 5.0 “Decodificando a Transformação”
 
 
 ### ÍNDICE
@@ -42,17 +42,20 @@ Neste episódio inaugural, viajamos no tempo para entender a evolução da educa
 
 Midjourney : https://discord.com/channels/662267976984297473/989268395302223913
 
-Dall-E 2
 
-ChatGPT
+ChatGPT : https://chatgpt.com/
 
-ElevenLabs
 
-Clipchamp
+ElevenLabs : https://elevenlabs.io/
 
-CapCut
 
-Notion.
+Clipchamp : https://clipchamp.com/en/
+
+
+CapCut : https://www.capcut.com/
+
+
+Notion : https://www.notion.so/product/ai
 
 
 
