@@ -10,11 +10,12 @@ EDUCAÇÃO 5.0 “Decodificando a Transformação”
 * Roteiro do Episódio
 * Duração do Áudio
 * Ferramentas de IA Utilizadas
-* Licença
+
 
   
 
 ### RESUMO
+
 
 
 Este podcast, "Educação 5.0: Decodificando a Transformação Digital", mergulha na era da educação inovadora e imersiva. Juntos, desvendaremos como a Educação 5.0 molda o cenário 
@@ -23,7 +24,9 @@ educacional, utilizando tecnologias e habilidades socioemocionais para preparar 
 
 
 
+
 ### O QUE VOCÊ PODE ESPERAR
+
 
 
 Tendências Tecnológicas: Explore as ferramentas digitais que revolucionam a sala de aula, desde smartphones até realidade virtual e inteligência artificial.
@@ -34,11 +37,14 @@ Neste episódio inaugural, viajamos no tempo para entender a evolução da educa
 
 
 
+
 ### DURAÇÃO DO PODCAST: 04min50s
 
 
 
+
 ### FERRAMENTAS UTILIZADAS: 
+
 
 Midjourney : https://discord.com/channels/662267976984297473/989268395302223913
 
@@ -59,7 +65,9 @@ Notion : https://www.notion.so/product/ai
 
 
 
+
 ### ÁUDIO DO EPISÓDIO
+
 
 
 Ouça o episódio aqui no Notion.
