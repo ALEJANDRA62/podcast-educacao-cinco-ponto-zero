@@ -30,6 +30,9 @@ Neste episódio inaugural, viajamos no tempo para entender a evolução da educa
 
 ### FERRAMENTAS UTILIZADAS: Midjourney, Dall-E 2, ChatGPT, ElevenLabs, Clipchamp, CapCut, Notion.
 
-### TEMPLATE DO NOTION
+
+### ÁUDIO DO EPISÓDIO
+
+Ouça o episódio aqui no Notion.
 https://www.notion.so/PODCAST-83df9f7c0940400782ba65bb111d14ef?pvs=4
 
