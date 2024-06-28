@@ -9,7 +9,7 @@
 * Duração do Áudio
 * Ferramentas de IA Utilizadas
 * Licença
-* 
+  
 
 ### RESUMO
 
@@ -28,11 +28,20 @@ Neste episódio inaugural, viajamos no tempo para entender a evolução da educa
 ### DURAÇÃO DO PODCAST: 04min50s
 
 
-### FERRAMENTAS UTILIZADAS: Midjourney, Dall-E 2, ChatGPT, ElevenLabs, Clipchamp, CapCut, Notion.
+### FERRAMENTAS UTILIZADAS: 
+
+Midjourney
+Dall-E 2
+ChatGPT
+ElevenLabs
+Clipchamp
+CapCut
+Notion.
 
 
 ### ÁUDIO DO EPISÓDIO
 
 Ouça o episódio aqui no Notion.
+
 https://www.notion.so/PODCAST-83df9f7c0940400782ba65bb111d14ef?pvs=4
 
