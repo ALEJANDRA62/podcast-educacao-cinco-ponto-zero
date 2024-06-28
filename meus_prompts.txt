@@ -1,0 +1,51 @@
+
+PROJETO:CRIANDO UM PODCAST COM Ias GENERATIVAS
+
+
+PROMPT PARA GERAR UM TÍTULO E UM SUBTÍTULO
+
+Atua como um roteirista de podcast especialista em comunicação digital. Gera 8 sugestões de nomes interessantes para um podcast sobre novas tecnologias na educação, tendências para 2025. O podcast vai falar sobre dicas e novidades, desafios e vantagens da modernização do ensino. O conteúdo do podcast será focado em e-learning, plataformas e ferramentas para professores e alunos.
+{REGRAS} 
+>Cria um título e um subtítulo. 
+>O nome deve ser enxuto, curto e direto, fácil de lembrar e pronunciar. 
+>O nome deve refletir o conteúdo do podcast.
+>O nome deve conter alguma palavra forte pois será a primeira impressão para os ouvintes.
+>Procure um nome que se destaque.
+> Palavras-chave: Inclua palavras relacionadas ao seu nicho para facilitar a descoberta pelos mecanismos de busca.
+{REGRAS NEGATIVAS} 
+>Evite títulos genéricos que se confundam com outros podcasts.
+>Evite que o título e o subtítulo contenham palavras em inglês, como por exemplo e-learning.
+>Evite excesso de palavras ou frases longas.
+
+
+
+
+PROMPT PARA CRIAR O ROTEIRO
+
+Imagina que você é um roteirista sênior, analista de inovações tecnológicas com foco na educação e vamos a criar um roteiro de um podcast cujo nome é “EDUCAÇÃO 5.0 : DECODIFICANDO A TRANSFORMAÇÃO DIGITAL”, cujo público alvo são professores e alunos que utilizam elementos digitais no processo de ensino-aprendizagem.
+O formato do roteiro deve ser estruturado da seguinte forma:
+[Introdução]
+-Apresentação
+-Breve resumo do que será discutido
+[Contextualização]
+-Breve histórico
+-Por que o tema é relevante 
+[Discussão Principal]
+-Análise e tendências
+-Ferramentas
+[Conclusão]
+-Despedida 
+{REGRAS}
+>Utiliza um linguagem informativo centrado no contexto, relacionando fatos à objetividade, simultaneamente mantenha um estilo de fala natural e coloquial.
+>Use termos claros, mantenha um tom amigável e acessível. Imagine que está conversando com um amigo interessado no assunto. 
+{REGRAS NEGATIVAS}
+>Não use muitos termos técnicos que dificultem a compreensão do texto.
+>Evite soar excessivamente formal.
+>Não ultrapasse 5 minutos de duração.
+
+
+
+
+PROMPT PARA GERAR UMA IMAGEM EM MIDJOURNEY
+
+Create a young woman, nerdy student, podcaster, passionate about technology, surrounded by digital tools, backlighting, dynamic backlighting, global illumination, image rendered in ultra-high resolution, realistic filter that highlights cores and textures, photo processing in 16K resolution , photo realistic, hyper-realistic, ultra detailed photography --ar 1:1
