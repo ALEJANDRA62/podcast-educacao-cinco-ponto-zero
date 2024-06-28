@@ -9,10 +9,11 @@
 * Ferramentas de IA Utilizadas
 * Licença
 
-###Resumo
+#Resumo
+
 Este podcast, "Educação 5.0: Decodificando a Transformação Digital", mergulha na era da educação inovadora e imersiva. Juntos, desvendaremos como a Educação 5.0 molda o cenário educacional, utilizando tecnologias e habilidades socioemocionais para preparar os alunos para um mundo digitalmente interconectado.
 
-###O que você pode esperar:
+#O que você pode esperar:
 
 Tendências Tecnológicas: Explore as ferramentas digitais que revolucionam a sala de aula, desde smartphones até realidade virtual e inteligência artificial.
 Aprendizagem Personalizada: Descubra como a tecnologia personaliza o aprendizado, atendendo às necessidades individuais e otimizando o processo.
