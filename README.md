@@ -40,7 +40,7 @@ Neste episódio inaugural, viajamos no tempo para entender a evolução da educa
 
 ### FERRAMENTAS UTILIZADAS: 
 
-Midjourney
+Midjourney : https://discord.com/channels/662267976984297473/989268395302223913
 
 Dall-E 2
 
